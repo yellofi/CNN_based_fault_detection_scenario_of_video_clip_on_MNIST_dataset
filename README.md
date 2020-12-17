@@ -17,3 +17,6 @@ Lesions are at a few frames in SBCE videos
 <img alt="Prediction" src="https://github.com/YunseobHwang/CNN_based_fault_detection_scenario_of_video_clip_on_MNIST_dataset/blob/master/results/prediction.PNG" />
 <br>
   
+
+![Scenario](./results/scenario.PNG)
+  
