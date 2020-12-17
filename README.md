@@ -1,8 +1,10 @@
-# Motivation
+# CNN-based fault detection scenario of video clip on MNIST dataset
+
+## Motivation
 
 Lesions are at a few frames in SBCE videos 
 
-# MNIST Scenario
+## MNIST Scenario
 
 0 (normal) <br>
 6 (abnormal)
