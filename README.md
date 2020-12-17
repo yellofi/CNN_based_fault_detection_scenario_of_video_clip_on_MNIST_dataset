@@ -11,7 +11,7 @@ Lesions are at a few frames in SBCE videos
 
 
 ![Scenario](./results/scenario.PNG)
-![Prediction](./results/scenario.PNG)
+![Prediction](./results/prediction.PNG)
 
 """
 <p align="center">
