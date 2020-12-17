@@ -6,3 +6,7 @@ Lesions are at a few frames in SBCE videos
 
 0 (normal) <br>
 6 (abnormal)
+
+<p align="center">
+<img alt="Scenario" src="https://github.com/YunseobHwang/CNN_based_fault_detection_scenario_of_video_clip_on_MNIST_dataset/blob/master/results/scenario.png" />
+<br>
