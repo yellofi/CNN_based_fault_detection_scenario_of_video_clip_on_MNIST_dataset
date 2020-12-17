@@ -10,12 +10,10 @@ Lesions are at a few frames in SBCE videos
 6 (abnormal)
 
 
- ![Scenario](./results/scenario.PNG)
+![Scenario](./results/scenario.PNG)
+![Prediction](./results/scenario.PNG)
 
-
-
-
-
+"""
 <p align="center">
 <img alt="Scenario" src="https://github.com/YunseobHwang/CNN_based_fault_detection_scenario_of_video_clip_on_MNIST_dataset/blob/master/results/scenario.PNG" />
 <br>
@@ -23,4 +21,4 @@ Lesions are at a few frames in SBCE videos
 <p align="center">
 <img alt="Prediction" src="https://github.com/YunseobHwang/CNN_based_fault_detection_scenario_of_video_clip_on_MNIST_dataset/blob/master/results/prediction.PNG" />
 <br>
-  
+"""
