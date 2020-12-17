@@ -1,2 +1,4 @@
-# Video_Processing
-Making Video and Frame Extraction
+# Setting
+
+0 (normal)
+6 (abnormal)
