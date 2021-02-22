@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Lesions are at a few frames in SBCE videos 
+Lesions are at a few frames in SBCE videos (prototyping for CapsuleEndo)
 
 ## MNIST Scenario
 
